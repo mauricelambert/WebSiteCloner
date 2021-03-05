@@ -46,8 +46,10 @@ Description: # WebSiteCloner
         
         ## Links
          - [Github Page](https://github.com/mauricelambert/WebSiteCloner)
-         - [Code Documentation](https://mauricelambert.github.io/info/python/security/WebSiteCloner.html)
+         - [Code Documentation WebSiteCloner](https://mauricelambert.github.io/info/python/security/WebSiteCloner/WebSiteCloner.html)
+         - [Code Documentation HTTPLogger](https://mauricelambert.github.io/info/python/security/WebSiteCloner/HTTPLogger.html)
          - [Download as python executable](https://mauricelambert.github.io/info/python/security/WebSiteCloner.pyz)
+         - [Pypi page](https://pypi.org/project/WebSiteCloner/)
         
         ## Licence
         Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).

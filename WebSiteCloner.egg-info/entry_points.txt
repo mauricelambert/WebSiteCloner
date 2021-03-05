@@ -1,3 +1,4 @@
 [console_scripts]
-WebSiteCloner = WebSiteCloner:clonerWebClonerServer = WebSiteCloner:server
+WebClonerServer = WebSiteCloner:server
+WebSiteCloner = WebSiteCloner:cloner
 

@@ -30,7 +30,7 @@ setup(
  
     entry_points = {
         'console_scripts': [
-            'WebSiteCloner = WebSiteCloner:cloner'
+            'WebSiteCloner = WebSiteCloner:cloner',
             'WebClonerServer = WebSiteCloner:server'
         ],
     },
